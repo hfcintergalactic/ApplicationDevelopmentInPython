@@ -1,8 +1,6 @@
 Final assignment
 =========================
 
-![Logo](../docs/img/logo.png "Logo")
-
 ![Cover Image](../docs/img/cover.jpg "Cover Image")
 
 Description
