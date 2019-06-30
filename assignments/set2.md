@@ -74,7 +74,7 @@ Or get the available commands by using our application as such:
 
 `python main.py --help`
 
-Another extra that can be added to the calulator is the command *ans* that will store the result of the last operation once we get to the implementation of the mathematical functions of week 4 and 5.
+Another extra that can be added to the calulator is the command *ans* that will store the result of the last operation once we get to the implementation of the mathematical functions of set 4 and 5.
 
 (6) References
 --------------
