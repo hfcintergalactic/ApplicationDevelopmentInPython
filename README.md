@@ -31,7 +31,7 @@ Course Documentation
 Weekly schedule
 -------------
 
-| Week number | Slides and contents                                                                 | Recorded Lectures                                                               | Programming tasks                                                       | Deadline                    |
+| Week number | Slides and contents                                                                 | Recorded Lectures                                                               | Assignment Set                                                       | Deadline                    |
 |-------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------|
 |             |                                                                                     |                                                                                 |                                                                         |                             |
 | Week 1      | [Lecture 1](/presentations/week%201/presentation.html): Introduction, IDE, Debugger | [Lecture 1](https://drive.google.com/open?id=1eaWlJD7hCS7ECtSA18ErLaZIVygudji6) | [Set 1](assignments/set1.md)                                            | Before start Lecture Week 2 |
