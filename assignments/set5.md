@@ -16,17 +16,10 @@ Topics
 (1) Power
 ---------
 
-The first function that we will add to our calculator this week is the power
-function. Recall that the outcome of the expression `2^8` is `2*2*2*2*2*2*2*2`. In other words, an expression of the kind `a^b` (raise the *base*,
-*a* to the power of the *exponent*, *b*) multiplies the base an amount of times
-indicated by the exponent. Since we implemented our multiplication function last
-week, we should have the required tools to implement this function.
+The first function that we will add to our calculator this time is the power function. Recall that the outcome of the expression `2^8` is `2*2*2*2*2*2*2*2`. In other words, an expression of the kind `a^b` (raise the *base*, *a* to the power of the *exponent*, *b*) multiplies the base an amount of times indicated by the exponent. Since we implemented our multiplication function earlier, we should have the required tools to implement this function.
 
 Your calculator will implement the power function for positive numbers. Two
 integers should be provided to your function and one integer should be returned.
-
-You may choose to use the *power* function in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting
-point.
 
 Note: You can also choose to implement the power function as a recursive
 function.
@@ -59,9 +52,6 @@ such that the squared outcome is less than or equal to the provided argument.
 Your calculator will implement the square root function for positive numbers.
 One integer should be provided to your function and one integer should be
 returned.
-
-You may choose to use the *sqrt* function in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting
-point.
 
 Note: You can also choose to implement the square root function as a recursive
 function.
@@ -118,8 +108,6 @@ Your calculator will implement the greatest common divisor function for positive
 even numbers. Your function will be provided two integers and should return one
 integer.
 
-You may choose to use the *gcd* function in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting point.
-
 (4) Least common multiple
 -------------------------
 
@@ -150,8 +138,6 @@ The proof of this formula can be found in the references below.
 Your calculator will implement the least common multiple function for positive
 even numbers. Your function will be provided two integers and should return one
 integer.
-
-You may choose to use the *lcm* function in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting point.
 
 (5) Calculate
 -------------
