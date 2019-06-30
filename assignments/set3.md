@@ -46,13 +46,11 @@ Some examples of expression that will need to be processed:
 - `divide 2 1`
 - `divide 2 2`
 
-For now, we have not yet implemented the actual functions (note that these functions do have stubs in the [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) file, this will be part of the assignment sets 4 and 5. Therefore, we will limit ourselves to processing the expression and calling the associated function.
-
-For this set, keep the implementation of the arithmetic functions as it is. The AutoGradr test cases will assume the return values as they are in **arith.py**.
+For now, we have not yet implemented the actual functions. This will be part of the assignment sets 4 and 5. Therefore, we will limit ourselves to processing the expression and calling the associated function. For this set, keep the implementation of the arithmetic functions as it is. The AutoGradr test cases will assume the return values as they are in **arith.py**.
 
 The examples above introduce what we call the *arity* of a function. By arity, we denote the number of operands a function takes. In the example above, we notice that the *sum* and *divide* functions have arity *2*, while the *sqrt* function has arity 1. We will use this information as it tells us how many operands we still need to find in the string that was provided as input by the user.
 
-The code provided to you in the [code/functions.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/functions.py) file contains a number of helper functions that can be used for the implementation of expression processing. Functions that may come in handy are:
+The code provided to you in the [code/functions.py](../code/functions.py) file contains a number of helper functions that can be used for the implementation of expression processing. Functions that may come in handy are:
 
 - *is_function* will return *True* iff the string provided as a parameter is a known function name in the functions table.
 - *get_function* will return a function from the functions table based on the string provided as a parameter.
