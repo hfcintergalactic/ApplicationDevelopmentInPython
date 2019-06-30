@@ -1,4 +1,4 @@
-Set 5
+Assignment set 5
 =========================
 
 For this set, we will add three new functions to our calculator; greatest common
