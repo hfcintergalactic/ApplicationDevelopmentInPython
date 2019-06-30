@@ -5,7 +5,7 @@ Module Description — Introduction to Application Development in Python
 
 ![Cover Image](https://github.com/hogeschool/Keuzevak-IADIP/raw/master/docs/img/cover.jpg)
 
-- **ECTS:** 2
+- **ECTS:** 2, 56 hours
 - **Course owner:** Fatih Han Caglayan (f.h.caglayan at hr dot nl)
 
 Course overview
@@ -14,7 +14,7 @@ Course overview
 | Course name                | Introduction to Application Development in Python                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Course code                | CMIPRG01                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Language                   | English and/or Dutch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Language                   | English                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ECTS and study load        | Course length: 7 weeks, ECTS: 2, Study load: 56 hours composed of 21 hours in-class and 35 hours self study                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Required prior knowledge   | INFDEV02-1, INFANL02-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Form                       | Combined practical and theoretical sessions.                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -25,7 +25,7 @@ Course overview
 | Contents                   | Programming, debugging and problem solving.                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Notes                      | AutoGradr is used to to submit assignments. Google Classroom can be used (according to the preferences of the teacher) for communication with students.                                                                                                                                                                                                                                                                                                                                                                |
 | Course owner               | Fatih Han Caglayan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Date                       | 5 November 2018                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Date                       | 2 October 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 Description
 -----------
@@ -66,73 +66,25 @@ Course material
 Choice of programming language
 ------------------------------
 
-Throughout this course, the Python 3 programming language will be used. Due to
-consistency and the automatic evaluation of the final assignment, we cannot
-support other programming languages.
+Throughout this course, the Python 3 programming language will be used.
 
 Schedule
 --------
 
-The length of this course is seven weeks, with one lesson of 100 minutes each
-week. Students participating in this course will work on programming tasks
-according to the schedule below. Weekly progress in terms of completion of the
-programming tasks is part of the assessment of this course. The final assignment
-will build upon all completed programming tasks. Each lesson will be divided
-into two parts; a theoretical part, related to subject that will be applied in
-the practical part of the lesson. Each lesson will be supervised by a teacher.
-The programming tasks according to the schedule need to be completed and
-approved by the teacher. Each programming task will contribute towards the final
+The length of this course is seven weeks. Students participating in this course will
+work on programming tasks according to the schedule below. Weekly progress in terms
+of completion of the programming tasks is part of the assessment of this course. The
+final assignment will build upon all completed programming tasks. Each lesson will be
+divided into two parts; a theoretical part, related to subject that will be applied in
+the practical part of the lesson. Each lesson will be supervised by a teacher. The 
+programming tasks according to the schedule need to be completed and approved by the 
+teacher. Each programming task will contribute towards the final
 assignment.
 
-| \# | Contents                    | Programming tasks                               |
-|----|-----------------------------|-------------------------------------------------|
-| 1  | Introduction, IDE, Debugger | IDE and required software, Program skeleton     |
-| 2  | Functions and Conditionals  | Program skeleton for command-line processing    |
-| 3  | Lists and String Operations | Processing command-line input (function syntax) |
-| 4  | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    |
-| 5  | Combination                 | Power, Square Root, GCD and LCM                 |
-| 6  | Refinement\*                | Software refinement                             |
-| 7  | Refinement\*                | Software refinement                             |
-
-\* Depending on the experience levels of the students, the final software may be
-improved to improve the grade. Depending on additional and optional criteria in
-the assignment description.
-
-Grades and Assessment
-----------
-
-The final results of this course will be determined according to the following
-criteria.
-
--   Weekly progress (0% - 100%): The programming tasks need to be evaluated by
-    the teacher on a weekly basis. The final assessment of this criterium is as
-    follows: `Progress = Number of approved weeks / 5`
-
--   Final assignment (0% - 100%): The final assignment should be submitted through
-    AutoGradr. The assessment of the final assignment is automatic according to
-    the criteria of the assignment. The deadline for the final assignment will
-    be announced during the course. Each successfully implemented requirement
-    accounts for 1/19 point. Thus, The final assessment of this criterium is as
-    follows: `Final assignment = Number of implemented requirements / 19`
-
-The final grade will be determined according to the following formula.
-
-`Grade = Progress * 3 + Final assignment * 7`
-
-`Grade = numberOfWeeks/5 * 3 + numberOfRequirements/19 * 7`
-
-Example grade calculation:
-
-Student has implemented all mandatory requirements and has shown weekly progress each time. So he has 5 out of 5 weeks, and implemented the 13 mandatory requirements out of the total of 19 requirements:
-
-`(5/5) * 3 + (13/19) * 7 = 7.8`
-
-__Assignments both weekly and final are individual work. In case of plagiarism student(s) will be reported to the exam committee.__
-
-### Retake
-
-Should the grade of the final assessment be insufficient, there will be an
-opportunity to retake. The deadline for this retake will be announced during the
-course.
-
-__The grade received for the weekly progression will be maintained for the retake.__
+|Contents                    | Programming tasks                               |
+|----------------------------|-------------------------------------------------|
+|Introduction, IDE, Debugger | IDE and required software, Program skeleton     |
+|Functions and Conditionals  | Program skeleton for command-line processing    |
+|Lists and String Operations | Processing command-line input (function syntax) |
+|Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    |
+|Combination                 | Power, Square Root, GCD and LCM                 |
