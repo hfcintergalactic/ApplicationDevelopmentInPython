@@ -1,14 +1,12 @@
-Week 1
+Assignment set 1
 =========================
-
-![Logo](../docs/img/logo.png "Logo")
 
 ![Cover Image](../docs/img/cover.jpg "Cover Image")
 
 Description
 -----------
 
-The topic of this week is the installation of Python, the integrated development environment (IDE), testing the debugger and getting familiar with the imposed structure of the final assignment.
+The topic of this set is the installation of Python, the integrated development environment (IDE), testing the debugger and getting familiar with the imposed structure of the final assignment.
 
 At this time, please get familiar with the final assignment description. How to get familiar with this description can be read in section one.
 
