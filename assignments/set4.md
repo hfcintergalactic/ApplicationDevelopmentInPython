@@ -185,7 +185,7 @@ Thus far, we have limited ourselves to positive numbers. We can, however, extend
 our implementation to also support negative numbers. Moreover, we can even
 implement subtraction by means of addition, i.e. a - b = a + -b.
 
-For refinement of the arithmetic functionality implemented this week, implement
+For refinement of the arithmetic functionality implemented this assignment set, implement
 support for negative numbers. Please refer to the final assignment description
 criteria for the appropriate format such that your final solution can be
 correctly evaluated.
