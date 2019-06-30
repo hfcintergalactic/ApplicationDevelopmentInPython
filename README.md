@@ -88,11 +88,11 @@ Week schedule
 
 | Week number  | Contents                    | Programming tasks                               | Deadline |
 | --- | --------------------------- | ----------------------------------------------- | -------- |
-| Week 1   | Introduction, IDE, Debugger | IDE and required software, Program skeleton     |        |
-|          | Functions and Conditionals  | Program skeleton for command-line processing    | Week 2 |
-| Week 2   | Lists and String Operations | Processing command-line input (function syntax) | Week 3 |
-| Week 3   | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    | Week 4 |
-| Week 4   | Combination                 | Power, Square Root, GCD and LCM                 | Week 5 |
+| Week 1   | Introduction, IDE, Debugger | IDE and required software, Program skeleton     | Before start Lecture 2 |
+| Week 2   | Functions and Conditionals  | Program skeleton for command-line processing    | Before start Lecture 2 |
+| Week 3   | Lists and String Operations | Processing command-line input (function syntax) | Before start Lecture 3 |
+| Week 4   | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    | Before start Lecture 4 |
+| Week 5   | Combination                 | Power, Square Root, GCD and LCM                 | Week 5 |
 | Week 5,6,7  | Implement requirements for deadline | Implement requirements for deadline  | Week 7 |
 
 ***Assignments have to be finished already before the lecture starts!!!***
