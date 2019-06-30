@@ -1,14 +1,7 @@
-Week 5
+Set 5
 =========================
 
-![Logo](../docs/img/logo.png "Logo")
-
-![Cover Image](../docs/img/cover.jpg "Cover Image")
-
-Description
------------
-
-This week we will add three new functions to our calculator; greatest common
+For this set, we will add three new functions to our calculator; greatest common
 divisor, least common multiple, power of two and square root.
 
 Topics
