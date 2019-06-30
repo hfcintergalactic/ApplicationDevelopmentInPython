@@ -42,6 +42,7 @@ Weekly schedule
 | Week 5,6,7  | | Implement [all requirements](docs/list-of-requirements.md) for deadline |         |                                                                                 | Implement [all requirements](docs/list-of-requirements.md) for deadline | Week 7, Friday 23:59        |
 
 ***Assignments have to be finished before the start of the lecture of the week after!!!***
+
 ***Final assignment deadline: Week 7, Friday 23:59***
 
 
