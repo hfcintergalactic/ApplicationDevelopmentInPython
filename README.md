@@ -1,8 +1,6 @@
 Application Development in Python
 ====================
 
-![Cover Image](docs/img/cover.jpg)
-
 Teachers
 -----------------
 
