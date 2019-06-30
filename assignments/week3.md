@@ -1,14 +1,10 @@
-Week 3
+Set 3
 =========================
-
-![Logo](../docs/img/logo.png "Logo")
-
-![Cover Image](../docs/img/cover.jpg "Cover Image")
 
 Description
 -----------
 
-This week we will extend the commands that we have implemented last week by commands that resemble the mathematical functions that will be implemented in week 4 and week 5.
+For this set, we will extend the commands that we have implemented last week by commands that resemble the mathematical functions that will be implemented in week 4 and week 5.
 
 Up to now, we have implemented the following commands:
 
@@ -120,7 +116,7 @@ And, *infix*:
 
 (Multiply 1 added to 1 by 3)
 
-(7) References
+References
 --------------
 
 1. <https://www.geeksforgeeks.org/packing-and-unpacking-arguments-in-python/>
