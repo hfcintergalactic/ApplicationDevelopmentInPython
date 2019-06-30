@@ -26,12 +26,10 @@ the process of debugging software and the transformation of problem solutions to
 working code. The result of this will be a computer program, written by the
 student.
 
-Course documentation
+Course description
 --------------------
 
-Please find the course description below.
-
-[Course Description](docs/module-description.md)
+Please find the course description [here](docs/module-description.md).
 
 Final assignment criteria
 -------------------------
