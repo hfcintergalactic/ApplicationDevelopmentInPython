@@ -1,7 +1,5 @@
-Introduction to Application Development in Python
+Application Development in Python
 ====================
-
-![Logo](docs/img/logo.png)
 
 ![Cover Image](docs/img/cover.jpg)
 
