@@ -1,8 +1,5 @@
-Set 2
+Assignment set 2
 =========================
-
-Description
------------
 
 For this set, we will work on the basic application structure of our calculator. As should be known, the application that will be developed throughout this course is a text-based (that is, command-line) calculator which will feature several functions. Roughly, the implementation of the calculator can be represented by the logic and blocks depicted in the figure below.
 
