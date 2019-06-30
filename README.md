@@ -53,7 +53,7 @@ Please find the weekly assignments below.
 4. [Week 4](assignments/week4.md)
 5. [Week 5](assignments/week5.md)
 
-Please download the existing code and build your own software on top of it. The code folder can be found [here](https://github.com/hogeschool/Keuzevak-IADIP/tree/master/code).
+Please download the existing code and build your own software on top of it. The code folder can be found [here](/code).
 
 
 Slides
@@ -62,15 +62,15 @@ Slides
 Please find the slides below.
 
 - [Week
-    1](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%201/presentation.html)
+    1](/presentations/week%201/presentation.html)
 - [Week
-    2](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%202/presentation.html)
+    2](/presentations/week%202/presentation.html)
 - [Week
-    3](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%203/presentation.html)
+    3](/presentations/week%203/presentation.html)
 - [Week
-    4](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%204/presentation.html)
+    4](/presentations/week%204/presentation.html)
 - [Week
-    5](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%205/presentation.html)
+    5](/presentations/week%205/presentation.html)
 
 
 Recorded Lectures
