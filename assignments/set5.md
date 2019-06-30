@@ -153,7 +153,7 @@ integer.
 
 You may choose to use the *lcm* function in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting point.
 
-(6) Calculate
+(5) Calculate
 -------------
 
 Exercise 1
@@ -170,7 +170,7 @@ for each light:
 
 Calculate after how many seconds all lights flash together.
 
-(7) Advanced
+(6) Advanced
 ---------
 
 The following functions can be added:
@@ -180,7 +180,7 @@ The following functions can be added:
 Refer to the final assignment description document for the specifications of
 additional functionality.
 
-(8) References
+References
 --------------
 
 1. <https://en.wikipedia.org/wiki/Greatest_common_divisor>
