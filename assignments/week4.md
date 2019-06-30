@@ -1,4 +1,4 @@
-Week 4
+Set 4
 ======
 
 ![Logo](../docs/img/logo.png "Logo")
@@ -8,7 +8,7 @@ Week 4
 Description
 -----------
 
-This week we will implement the basic arithmetic operations addition,
+For this set, we will implement the basic arithmetic operations addition,
 subtraction, division and multiplication. Typically, these operations are
 implemented in the electronic circuitry of the CPU itself. In this weekly
 assignment, we will implement functions for these arithmetic operations with
@@ -204,7 +204,7 @@ As a reference, you can use the following table:
 | Addition    | (+a)+(+b)=a+b | (-a)+(-b)=(-1)\*(a+b) | (+a)+(-b)=a-b | (-a)+(+b)=b-a         |
 | Subtraction | (+a)-(+b)=a-b | (-a)-(-b)=(-a +b)=b-a | (+a)-(-b)=a+b | (-a)-(+b)=(-1)\*(a+b) |
 
-(6) References
+References
 --------------
 
 1. <https://en.wikipedia.org/wiki/Carry_(arithmetic)>
