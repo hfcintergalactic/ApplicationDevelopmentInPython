@@ -9,16 +9,13 @@ Teachers
 * Fatih Caglayan, course owner (cagfh at hr dot nl)
 * Babak Bashari Rad (bashb at hr dot nl)
 
-Description
------------
+Introduction
+------------
 
 The ability of software engineers to analyze and solve problems and translate
 solutions into correct computer programs can be seen as important and
 fundamental skills. Throughout the study program as well as in a professional
 career, these skills will continuously be called upon.
-
-Introduction
-------------
 
 This course is complementary to the development- and analyse courses. However,
 this course primarily focuses on the step-by-step implementation of a full
@@ -29,7 +26,24 @@ the process of debugging software and the transformation of problem solutions to
 working code. The result of this will be a computer program, written by the
 student.
 
-Overview of assignments
+Course documentation
+--------------------
+
+Please find the course description below.
+
+[Course Description](docs/module-description.md)
+
+Final assignment criteria
+-------------------------
+
+Please find the final assignment criteria below.
+
+[Final Assignment](docs/final-assignment.md)
+
+Make sure to use the course description and final assignment criteria documents frequently, as these describe how you can pass this course!
+
+
+Weekly schedule of assignments
 -----------------------
 
 Please find the weekly assignments below.
@@ -39,6 +53,7 @@ Please find the weekly assignments below.
 3. [Week 3](assignments/week3.md)
 4. [Week 4](assignments/week4.md)
 5. [Week 5](assignments/week5.md)
+
 
 Slides
 ------
@@ -66,21 +81,6 @@ Recorded Lectures
 5. [Week 5](https://drive.google.com/open?id=1RAp4WgKRKCD_VJswR6oRs9zyhb1Nzz7_)
 
 
-Course documentation
---------------------
-
-Please find the course description below.
-
-[Course Description](docs/module-description.md)
-
-Final assignment criteria
--------------------------
-
-Please find the final assignment criteria below.
-
-[Final Assignment](docs/final-assignment.md)
-
-Make sure to use the course description and final assignment criteria documents frequently, as these describe how you can pass this course!
 
 Starting point (code/ folder)
 -----------------------------
@@ -90,19 +90,16 @@ The code folder can be found in the course [Github repository](https://github.co
 Week schedule
 -------------
 
-| \#  | Contents                    | Programming tasks                               | Deadline |
+| Week number  | Contents                    | Programming tasks                               | Deadline |
 | --- | --------------------------- | ----------------------------------------------- | -------- |
-| 1   | Introduction, IDE, Debugger | IDE and required software, Program skeleton     | Week 2   |
-| 2   | Functions and Conditionals  | Program skeleton for command-line processing    | Week 3   |
-| 3   | Lists and String Operations | Processing command-line input (function syntax) | Week 4   |
-| 4   | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    | Week 5   |
-| 5   | Combination                 | Power, Square Root, GCD and LCM                 | Week 6   |
-| 6   | Refinement and Advanced     | Software refinement                             |          |
-| 7   | Refinement and Advanced     | Software refinement                             |          |
+| Week 1   | Introduction, IDE, Debugger | IDE and required software, Program skeleton     |        |
+|          | Functions and Conditionals  | Program skeleton for command-line processing    | Week 2 |
+| Week 2   | Lists and String Operations | Processing command-line input (function syntax) | Week 3 |
+| Week 3   | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    | Week 4 |
+| Week 4   | Combination                 | Power, Square Root, GCD and LCM                 | Week 5 |
+| Week 5,6,7  | Implement requirements for deadline | Implement requirements for deadline  | Week 8 |
 
 ***Final assignment deadline: Week 8, Friday 23:59***
-***April 12, 2019 at 23:59***
-
 
 How to submit
 -------------
