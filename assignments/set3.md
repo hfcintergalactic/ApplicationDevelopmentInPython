@@ -31,7 +31,7 @@ Criteria
 (1) Processing expressions
 -----------------------
 
-We will focus on the implementation of a function *process_line* that will try to process user input in case the provided input is none of the already implemented commands *help*, *version* or *quit*. Please refer to the overview diagram of last week in case you want to recheck the flow of the application.
+We will focus on the implementation of a function *process_line* that will try to process user input in case the provided input is none of the already implemented commands *help*, *version* or *quit*. Please refer to the overview diagram of the last assignment set in case you want to recheck the flow of the application.
 
 Since our *process_line* function takes care of processing expressions entered into our application, we assume that the format of the input that should be processed by the *process_line* function is as follows:
 
@@ -46,9 +46,9 @@ Some examples of expression that will need to be processed:
 - `divide 2 1`
 - `divide 2 2`
 
-For now, we have not yet implemented the actual functions (note that these functions do have stubs in the [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) file, this will be part of the assignments of week 4 and week 5. Therefore, we will limit ourselves to processing the expression and calling the associated function.
+For now, we have not yet implemented the actual functions (note that these functions do have stubs in the [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) file, this will be part of the assignment sets 4 and 5. Therefore, we will limit ourselves to processing the expression and calling the associated function.
 
-This week, keep the implementation of the arithmetic functions as it is. The AutoGradr test cases will assume the return values as they are in **arith.py**.
+For this set, keep the implementation of the arithmetic functions as it is. The AutoGradr test cases will assume the return values as they are in **arith.py**.
 
 The examples above introduce what we call the *arity* of a function. By arity, we denote the number of operands a function takes. In the example above, we notice that the *sum* and *divide* functions have arity *2*, while the *sqrt* function has arity 1. We will use this information as it tells us how many operands we still need to find in the string that was provided as input by the user.
 
@@ -86,7 +86,7 @@ Hint: In case you use a list to store the operands that were found while process
 
 Hint: Make sure to correctly typecast the operands. As the implementations of the functions will require arguments of a certain type (typically integers).
 
-Implement the *process_line* function. Note that, since the functions are not yet implemented (we will start working on those implementations next week), most functions will return wrong answers. We will fix this next week.
+Implement the *process_line* function. Note that, since the functions are not yet implemented, most functions will return wrong answers. We will fix this in the upcoming assignments.
 
 (2). Advanced
 -----------
