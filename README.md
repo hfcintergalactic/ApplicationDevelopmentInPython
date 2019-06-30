@@ -20,8 +20,11 @@ Course Documentation
 --------------------
 
 **Course Description**: Please find the course description [here](docs/module-description.md).
+
 **Requirements list**: Please find the list of requirements for the calculator [here](docs/list-of-requirements.md).
+
 **Grading and Assessment**: All information regarding grading and assessment can be found [here](docs/grading-and-assessment.md).
+
 **Starting point code**: Please download the existing code and build your own software on top of it. The code folder can be found [here](/code).
 
 
