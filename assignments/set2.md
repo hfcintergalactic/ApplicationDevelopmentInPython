@@ -26,14 +26,14 @@ Many applications feature what is typically called the event loop (also called e
 
 The main loop of our calculator will first need to read input from the command-line entered by the user. Implement the main loop and make sure that this main loop reads the user input. The input will be necessary when we need to determine what the calculator should do according to a command entered by the user.
 
-Please refer to the files in the [code/](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/) directory, throughout this course, these files can provide you with a starting point for the implementation of the assignments. The provided files are:
+Please refer to the files in the [code/](../code/) directory, throughout this course, these files can provide you with a starting point for the implementation of the assignments. The provided files are:
 
 - *code/arith_tools.py* provides tools to help implementing the arithmetic functions
 - *code/arith.py* provides a starting point for the implementation of arithmetic functions
 - *code/functions.py* contains storage and functions for the available functionality in our calculator
 - *code/main.py* acts as and is a starting point for the calculator
 
-Refer to [code/main.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/main.py) as a starting point for the entry point of the calculator which will feature the main loop.
+Refer to [code/main.py](../code/main.py) as a starting point for the entry point of the calculator which will feature the main loop.
 
 (2) The quit command
 --------------------
@@ -45,7 +45,7 @@ Implement the *quit* command.
 (3) The help command
 --------------------
 
-The *help* command will present our user with the available commands. You need to implement a *help* function that displays the available commands to the user. Please make use of the function *print_functions* available in [code/functions.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/functions.py). In case we find the input to the calculator to be the string *'help'*, we need to call our implemented *help* function that displays the available commands to the user. After calling the *help* function, the calculator needs to continue.
+The *help* command will present our user with the available commands. You need to implement a *help* function that displays the available commands to the user. Please make use of the function *print_functions* available in [code/functions.py](../code/functions.py). In case we find the input to the calculator to be the string *'help'*, we need to call our implemented *help* function that displays the available commands to the user. After calling the *help* function, the calculator needs to continue.
 
 Implement the *help* command.
 
