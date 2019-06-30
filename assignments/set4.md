@@ -1,4 +1,4 @@
-Set 4
+Assignment set 4
 ======
 
 For this set, we will implement the basic arithmetic operations addition,
