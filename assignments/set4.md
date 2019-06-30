@@ -87,7 +87,7 @@ numbers. Your function should be provided two integer parameters and return an
 integer.
 
 Implement the high school addition algorithm, you may choose to use the function
-*sum* in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting point. In addition to providing a
+*sum* in the pre-given code as a starting point. In addition to providing a
 starting point for the function structure, the function also makes use of the
 functions *get_digit* and *get_number_length*. The first function returns the
 *n*-th digit from the right (starting at 0) of *number*. The second function
@@ -105,9 +105,6 @@ as adding *a b* times.
 
 Your calculator will implement multiplication for positive numbers by making use
 of the addition function. Your function should be provided two integer parameters and return an integer.
-
-You make choose to use the function *multiply* in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting
-point.
 
 (3) Subtraction
 ---------------
@@ -155,9 +152,6 @@ Your calculator will implement the high school subtraction algorithm for
 positive numbers. Your function should be provided two integer parameters and
 return an integer.
 
-You make choose to use the function *sub* in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting
-point.
-
 (4) Division
 ------------
 
@@ -174,9 +168,6 @@ with integers.
 
 Implement the multiplication function. Your function should be provided two
 integer parameters and return an integer.
-
-You make choose to use the function *divide* in [code/arith.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/arith.py) as a starting
-point.
 
 (5) Advanced
 ---------
