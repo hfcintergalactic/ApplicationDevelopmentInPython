@@ -39,14 +39,10 @@ Weekly schedule
 | Week 2      | [Lecture 3](/presentations/week%203/presentation.html): Lists and String Operations | [Lecture 3](https://drive.google.com/open?id=1AKG8HC0TA0oSWA8ioGPEgTtFze0cWBHV) | [Set 3](assignments/set3.md)                                            | Before start Lecture Week 3 |
 | Week 3      | [Lecture 4](/presentations/week%204/presentation.html): Loops (For and While)       | [Lecture 4](https://drive.google.com/open?id=1w4jgWp_mGPq6Tn1QKaf-F4XI2GvKgwMS) | [Set 4](assignments/set4.md)                                            | Before start Lecture Week 4 |
 | Week 4      | [Lecture 5](/presentations/week%205/presentation.html): Combination                 | [Lecture 5](https://drive.google.com/open?id=1RAp4WgKRKCD_VJswR6oRs9zyhb1Nzz7_) | [Set 5](assignments/set5.md)                                            | Before start Lecture Week 5 |
-| Week 5,6,7  | | Implement [all requirements](docs/list-of-requirements.md) for deadline |         |                                                                                 | Implement [all requirements](docs/list-of-requirements.md) for deadline | Week 7, Friday 23:59        |
-
-***Assignments have to be finished before the start of the lecture of the week after!!!***
-
-***Final assignment deadline: Week 7, Friday 23:59***
+| Week 5,6,7  | Implement [all requirements](docs/list-of-requirements.md) for deadline |  | Implement [all requirements](docs/list-of-requirements.md) for deadline | Week 7, Friday 23:59 |
 
 
 How to submit
 -------------
 
-Your code will be both automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of AutoGradr. Make sure to register an account at <http://AutoGradr.com>! Your teacher will provide you with the course code to enroll. For more information about how Autogradr works, please see [here](docs/autogradr.md).
+Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of AutoGradr. Make sure to register an account at <http://AutoGradr.com>! Your teacher will provide you with the course code to enroll. For more information about how Autogradr works, please see [here](docs/autogradr.md).
