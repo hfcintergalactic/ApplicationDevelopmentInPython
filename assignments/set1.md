@@ -50,8 +50,6 @@ Throughout this course, we will use the Visual Studio Code IDE with the Microsof
 (4). Testing the debugger
 -------------------------
 
-Throughout this course, we will make use of [AutoGradr](http://www.autogradr.com/) as an automatic grading system. In this first programming assignment, correct the errors in [code/debugging_exercises.py](https://github.com/hogeschool/Keuzevak-IADIP/blob/master/code/debugging_exercises.py). The errors can be syntactical and logical. Use your newly installed IDE to resolve the errors in the code by using the linter and debugger.
+Throughout this course, we will make use of [AutoGradr](http://www.autogradr.com/) as an automatic grading system. In this first programming assignment, correct the errors in [code/debugging_exercises.py](../code/debugging_exercises.py). The errors can be syntactical and logical. Use your newly installed IDE to resolve the errors in the code by using the linter and debugger.
 
-Use the test cases in AutoGradr as a reference, also make use of the comments in the code.
-
-Submit your working solution trough AutoGradr once you have passed all the test cases.
+Use the test cases in AutoGradr as a reference, also make use of the comments in the code. Submit your working solution trough AutoGradr once you have passed all the test cases.
