@@ -1,4 +1,4 @@
-Set 3
+Assignment set 3
 =========================
 
 For this set, we will extend the commands that we have implemented last week by commands that resemble the mathematical functions that will be implemented in week 4 and week 5.
