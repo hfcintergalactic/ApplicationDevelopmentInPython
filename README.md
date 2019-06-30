@@ -31,14 +31,15 @@ Course description
 
 Please find the course description [here](docs/module-description.md).
 
-Final assignment criteria
+List of requirements for the calculator
 -------------------------
 
-Please find the final assignment criteria below.
+Please find the List of requirements for the calculator [here](docs/list-of-requirements.md).
 
-[Final Assignment](docs/final-assignment.md)
+Grading and Assessment
+-------------------------
 
-Make sure to use the course description and final assignment criteria documents frequently, as these describe how you can pass this course!
+All information regarding grading and assessment can be found [here](docs/grading-and-assessment.md).
 
 
 Weekly schedule of assignments
@@ -51,6 +52,8 @@ Please find the weekly assignments below.
 3. [Week 3](assignments/week3.md)
 4. [Week 4](assignments/week4.md)
 5. [Week 5](assignments/week5.md)
+
+Please download the existing code and build your own software on top of it. The code folder can be found [here](https://github.com/hogeschool/Keuzevak-IADIP/tree/master/code).
 
 
 Slides
@@ -69,6 +72,7 @@ Please find the slides below.
 - [Week
     5](https://hogeschool.github.io/Keuzevak-IADIP/presentations/week%205/presentation.html)
 
+
 Recorded Lectures
 -----------------
 
@@ -78,12 +82,6 @@ Recorded Lectures
 4. [Week 4](https://drive.google.com/open?id=1w4jgWp_mGPq6Tn1QKaf-F4XI2GvKgwMS)
 5. [Week 5](https://drive.google.com/open?id=1RAp4WgKRKCD_VJswR6oRs9zyhb1Nzz7_)
 
-
-
-Starting point (code/ folder)
------------------------------
-
-The code folder can be found in the course [Github repository](https://github.com/hogeschool/Keuzevak-IADIP/tree/master/code).
 
 Week schedule
 -------------
@@ -95,32 +93,14 @@ Week schedule
 | Week 2   | Lists and String Operations | Processing command-line input (function syntax) | Week 3 |
 | Week 3   | Loops (For and While)       | Arithmetic operations on integers (+,-,/,\*)    | Week 4 |
 | Week 4   | Combination                 | Power, Square Root, GCD and LCM                 | Week 5 |
-| Week 5,6,7  | Implement requirements for deadline | Implement requirements for deadline  | Week 8 |
+| Week 5,6,7  | Implement requirements for deadline | Implement requirements for deadline  | Week 7 |
 
-***Final assignment deadline: Week 8, Friday 23:59***
+***Assignments have to be finished already before the lecture starts!!!***
+***Final assignment deadline: Week 7, Friday 23:59***
 
 How to submit
 -------------
 
-Your code will be both automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of AutoGradr. Make sure to register an account at <http://AutoGradr.com>!
+Your code will be both automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of AutoGradr. Make sure to register an account at <http://AutoGradr.com>! Your teacher will provide you with the course code to enroll.
 
-The criteria in the final assignment document are implemented as rules in AutoGradr, therefore your application should strictly adhere to these criteria. Each week has a project in AutoGradr. You will need to submit the code that implements the functionality as written in the weekly assignments with these projects in AutoGradr.
-
-![Cover Image](docs/img/autogradr_bottom.png)
-
-In AutoGradr you will find a number of test cases in the right region of your screen. Typically, half of the test cases are hidden and half of the test cases are visible. The test case itself is displayed in the left region. A blue line denotes input to your application, while a black line denotes the expected output from your application.
-
-![Cover Image](docs/img/autogradr_top.png)
-
-Below the test case, you can submit your application. Note that the name of the entry-point to your application should be *main.py*. In case your application consists of multiple files, you can upload a zip containing all the files.
-
-Remember to check that the programming language is set to Python 3.
-
-When you have uploaded your file(s), AutoGradr will automatically verify your solution and present you with the result. In case your solution does not pass, it will display the lines of output that are incorrect and what was expected. Please note that this is only shown for test cases that are visible and not for hidden test cases.
-
-When your solution passes, AutoGradr will tell you that every test case has passed.
-
-When to submit
---------------
-
-Refer to the schedule above. We will keep track of your weekly progress which is part of your grade. We therefore require you to have passed each weekly mandatory assignment _before_ the deadline.
+For more information about how Autogradr see [here](docs/autogradr.md).
