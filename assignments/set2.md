@@ -1,8 +1,6 @@
 Set 2
 =========================
 
-![Cover Image](../docs/img/cover.jpg "Cover Image")
-
 Description
 -----------
 
@@ -61,22 +59,7 @@ The *version* command will present our user with the version of our application.
 
 Implement the *version* command.
 
-(5) Advanced
-------------
-
-In addition to console input that will be the main interface for entering commands into our calculator, it might be useful to allow for commands to be entered into the program arguments. Instead of starting the application and entering our commands via the console, we can start our application with arguments provided to the application that are executed.
-
-An example, we might want to quickly get the output of the expression `2*5+10` by using our application in the following way:
-
-`python main.py "sum multiply 2 5 10"`
-
-Or get the available commands by using our application as such:
-
-`python main.py --help`
-
-Another extra that can be added to the calulator is the command *ans* that will store the result of the last operation once we get to the implementation of the mathematical functions of set 4 and 5.
-
-(6) References
+References
 --------------
 
 1. <https://docs.python.org/3.4/tutorial/inputoutput.html>
