@@ -1,9 +1,6 @@
 Set 4
 ======
 
-Description
------------
-
 For this set, we will implement the basic arithmetic operations addition,
 subtraction, division and multiplication. Typically, these operations are
 implemented in the electronic circuitry of the CPU itself. In this weekly
