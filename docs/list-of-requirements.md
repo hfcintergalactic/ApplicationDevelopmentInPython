@@ -1,8 +1,3 @@
-Final assignment
-=========================
-
-![Cover Image](../docs/img/cover.jpg "Cover Image")
-
 Description
 -----------
 
@@ -72,40 +67,6 @@ The *quit* command should immediately terminate the application.
 - *input*: *quit*
 - *output*:
 
-Requirement A1): Command-line arguments (advanced)
----------------------------------------------------
-
-Every command described above except for the *quit* command should be accepted as an argument to the application via *argv*. Instead of continuing running, the application should terminate right after executing the command.
-
-The commands *help* and *version* should be prefixed by the characters *\--* (dash dash). An argument starting without the characters *\--* should be treated as an expression.
-
-```
-python main.py --help
-supported functions:
-"sub" arity: 2
-"sum" arity: 2
-"divide" arity: 2
-"multiply" arity: 2
-"power" arity: 2
-"sqrt" arity: 1
-"mod" arity: 2
-"gcd" arity: 2
-"lcm" arity: 2
-"bin" arity: 1
-python main.py --version
-calculator version 0.1
-python main.py "sum 1 1"
-2
-```
-
-In case multiple arguments are provided:
-
-```
-python main.py --help --version "sum 1 1"
-```
-
-Only the first command will be processed, after executing the command the application should immediately terminated as described above.
-
 Requirement M4): Expression processing (mandatory)
 --------------------------------------------------
 
@@ -121,28 +82,28 @@ The expression processing functionality will need to implement processing simple
     - In case the operation is unknown (not present in the function table):
         - *output*: *unknown token*
 
-Requirement A2): Expression processing (advanced)
+Requirement A1): Expression processing (advanced)
 -------------------------------------------------
 
 The simple expressions of the mandatory criteria should be extended such that the operands can consist of operations on operands. This way, more complex expressions can be created such as:
 
 `sum 1 power 2 5`
 
-Requirement A3): Postfix expressions (advanced)
+Requirement A2): Postfix expressions (advanced)
 -----------------------------------------------
 
 Implement processing of postfix expressions. Implementation of requirement A2 prior to this is necessary.
 
 `2 3 sum 1 multiply`
 
-Requirement A4): Infix expressions (advanced)
+Requirement A3): Infix expressions (advanced)
 ----------------------------------------------
 
 Implement processing of Infix expressions. Implementation of requirement A2 prior to this is necessary.
 
 `2 sum 3 multiply 1`
 
-Requirement A5): The ans keyword (advanced)
+Requirement A4): The ans keyword (advanced)
 ----------------------------------------------
 
 Implement the *ans* keyword, that will be replaced by the result of the last operation.
@@ -282,7 +243,7 @@ The modulo operation should be implemented for two positive numbers. The name of
     - In case operands of the wrong type are provided:
         - *output*: *invalid operand type*
 
-Requirement A6): Binary to decimal conversion (advanced)
+Requirement A5): Binary to decimal conversion (advanced)
 --------------------------------------------------------
 
 The binary to decimal operation should be implemented for binary strings. The name of the binary to decimal operation as a command should be *bin*.
@@ -294,42 +255,3 @@ The binary to decimal operation should be implemented for binary strings. The na
         - *output*: *invalid number of operands*
     - In case operands of the wrong type are provided:
         - *output*: *invalid operand type*
-
-Grades and Assessment
-----------
-
-The final results of this course will be determined according to the following
-criteria.
-
--   Weekly progress (0% - 100%): The programming tasks need to be evaluated by
-    the teacher on a weekly basis. The final assessment of this criterium is as
-    follows: `Progress = Number of approved weeks / 5`
-
--   Final assignment (0% - 100%): The final assignment should be submitted through
-    AutoGradr. The assessment of the final assignment is automatic according to
-    the criteria of the assignment. The deadline for the final assignment will
-    be announced during the course. Each successfully implemented requirement
-    accounts for 1/19 point. Thus, The final assessment of this criterium is as
-    follows: `Final assignment = Number of implemented requirements / 19`
-
-The final grade will be determined according to the following formula.
-
-`Grade = Progress * 3 + Final assignment * 7`
-
-`Grade = numberOfWeeks/5 * 3 + numberOfRequirements/19 * 7`
-
-Example grade calculation:
-
-Student has implemented all mandatory requirements and has shown weekly progress each time. So he has 5 out of 5 weeks, and implemented the 13 mandatory requirements out of the total of 19 requirements:
-
-`(5/5) * 3 + (13/19) * 7 = 7.8`
-
-__Assignments both weekly and final are individual work. In case of plagiarism student(s) will be reported to the exam committee.__
-
-### Retake
-
-Should the grade of the final assessment be insufficient, there will be an
-opportunity to retake. The deadline for this retake will be announced during the
-course.
-
-__The grade received for the weekly progression will be maintained for the retake.__
