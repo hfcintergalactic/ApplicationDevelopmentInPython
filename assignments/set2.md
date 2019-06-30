@@ -1,4 +1,4 @@
-Week 2
+Set 2
 =========================
 
 ![Cover Image](../docs/img/cover.jpg "Cover Image")
@@ -6,7 +6,7 @@ Week 2
 Description
 -----------
 
-This week we will work on the basic application structure of our calculator. As should be known, the application that will be developed throughout this course is a text-based (that is, command-line) calculator which will feature several functions. Roughly, the implementation of the calculator can be represented by the logic and blocks depicted in the figure below.
+For this set, we will work on the basic application structure of our calculator. As should be known, the application that will be developed throughout this course is a text-based (that is, command-line) calculator which will feature several functions. Roughly, the implementation of the calculator can be represented by the logic and blocks depicted in the figure below.
 
 ![Overview](../docs/img/overview_calculator.png "Overview")
 
