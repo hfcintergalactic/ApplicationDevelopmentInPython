@@ -1,10 +1,6 @@
 Module Description — Introduction to Application Development in Python
 =============================================================
 
-![Logo](https://github.com/hogeschool/Keuzevak-IADIP/raw/master/docs/img/logo.png)
-
-![Cover Image](https://github.com/hogeschool/Keuzevak-IADIP/raw/master/docs/img/cover.jpg)
-
 - **ECTS:** 2, 56 hours
 - **Course owner:** Fatih Han Caglayan (f.h.caglayan at hr dot nl)
 
