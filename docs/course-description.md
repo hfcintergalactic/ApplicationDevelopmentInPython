@@ -1,7 +1,7 @@
 Course Description — Introduction to Application Development in Python
 =============================================================
 
-- **ECTS:** 2, 56 hours
+- **ECTS:** 2
 - **Course owner:** Fatih Han Caglayan (f.h.caglayan at hr dot nl)
 
 Course overview
