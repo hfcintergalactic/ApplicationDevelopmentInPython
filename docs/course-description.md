@@ -1,4 +1,4 @@
-Module Description — Introduction to Application Development in Python
+Course Description — Introduction to Application Development in Python
 =============================================================
 
 - **ECTS:** 2, 56 hours
