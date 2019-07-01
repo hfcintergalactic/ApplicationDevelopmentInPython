@@ -19,7 +19,7 @@ This course is complementary to the development- and analyse courses. However, t
 Course Documentation
 --------------------
 
-**Course Description**: Please find the course description [here](docs/module-description.md).
+**Course Description**: Please find the course description [here](docs/course-description.md).
 
 **Requirements list**: Please find the list of requirements for the calculator [here](docs/list-of-requirements.md).
 
