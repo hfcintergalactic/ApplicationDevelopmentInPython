@@ -5,8 +5,8 @@ The final results of this course will be determined according to the following
 criteria.
 
 -   Weekly progress (0% - 100%): The programming tasks need to be evaluated by
-    the teacher on a weekly basis. The final assessment of this criterium is as
-    follows: `Progress = Number of approved weeks / 5`
+    the teacher on a set basis. The final assessment of this criterium is as
+    follows: `Progress = Number of approved sets / 5`
 
 -   Final assignment (0% - 100%): The final assignment should be submitted through
     AutoGradr. The assessment of the final assignment is automatic according to
