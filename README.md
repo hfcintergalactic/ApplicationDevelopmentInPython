@@ -39,10 +39,26 @@ Weekly schedule
 | Week 2      | [Lecture 3](/presentations/Application%20Development%20in%20Python%20-%20Lecture%203.pdf): Lists and String Operations | [Video Lecture 3](https://drive.google.com/open?id=1AKG8HC0TA0oSWA8ioGPEgTtFze0cWBHV) | [Set 3](assignments/set3.md)                                            | Before start Lecture Week 3 |
 | Week 3      | [Lecture 4](/presentations/Application%20Development%20in%20Python%20-%20Lecture%204.pdf): Loops (For and While)       | [Video Lecture 4](https://drive.google.com/open?id=1w4jgWp_mGPq6Tn1QKaf-F4XI2GvKgwMS) | [Set 4](assignments/set4.md)                                            | Before start Lecture Week 4 |
 | Week 4      | [Lecture 5](/presentations/Application%20Development%20in%20Python%20-%20Lecture%205.pdf): Combination                 | [Video Lecture 5](https://drive.google.com/open?id=1RAp4WgKRKCD_VJswR6oRs9zyhb1Nzz7_) | [Set 5](assignments/set5.md)                                            | Before start Lecture Week 5 |
-| **Week 5,6,7**  | **Implement [all requirements](docs/list-of-requirements.md) for calculator** |  | **Implement [all requirements](docs/list-of-requirements.md) for calculator** | **Week 7, Friday 23:59** |
+| **Week 5,6,7**  | **Implement [all requirements](docs/list-of-requirements.md) for calculator** |  | **Implement [all requirements](docs/list-of-requirements.md) for calculator** | **Week 7, Friday 23:59**, no lecture, hand in by email -> see explanation below |
 
 
-How to submit
--------------
+How to submit single assignment
+---------------------------------
 
 Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of AutoGradr. Make sure to register an account at <http://AutoGradr.com>! Your teacher will provide you with the course code to enroll. For more information about how Autogradr works, please see [here](docs/autogradr.md).
+
+
+How to submit full calculator in week 7 before the deadline
+-------------------------------------------------------------
+
+After week 5, there are no lectures anymore. When handing in your calculator through email you **MUST** comply with the following rules:
+
+**!!! EVERYTHING that does not comply with the rules will be considered not handed in !!!**
+- Use autogrdr.com as a tool for yourself to check whether you have implemented the issues correctly.
+- Once you are ready to submit, you must send the mail to: applicationdevelopmentpython@gmail.com
+- The e-mail does not have to be sent to my Rotterdam high school mail.
+- In the e-mail you indicate which requirements you have implemented. Use this page for this. For example M1-M13 if you have only done the mandatory requirements and M1-M13 + A1-A6 if you have done everything.
+- The various files that contain the code must be supplied in a zip file.
+- The debugging exercise may not be put in the zip.
+- The zip file is provided with the following name: [your student number] [your last name, possible inserts] [your first name]
+**ONCE AGAIN: !!! EVERYTHING that does not comply with the rules will be considered not handed in !!!
