@@ -62,6 +62,7 @@ After week 5, there are no lectures anymore. When handing in your calculator thr
 - The debugging exercise should not be put in the zip file.
 - The zip file is provided with the following name: [your student number] [your last name] [your first name]
 
-**ONCE AGAIN: **
+
+**ONCE AGAIN:**
 
 **!!! EVERYTHING that does not comply with the rules will be considered not handed in !!!**
