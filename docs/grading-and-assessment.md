@@ -23,7 +23,7 @@ The final grade will be determined according to the following formula.
 
 Example grade calculation:
 
-Student has implemented all mandatory requirements and has shown weekly progress each time. So he has 5 out of 5 weeks, and implemented the 13 mandatory requirements out of the total of 19 requirements:
+Student has implemented all mandatory requirements and has shown weekly progress each time. So he has 5 out of 5 weeks, and implemented the 13 mandatory requirements out of the total of 18 requirements:
 
 `(5/5) * 3 + (13/18) * 7 = 8.1`
 
