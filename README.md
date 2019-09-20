@@ -56,10 +56,10 @@ After week 5, there are no lectures anymore. When handing in your calculator thr
 **!!! EVERYTHING that does not comply with the rules will be considered not handed in !!!**
 - Use autogrdr.com as a tool for yourself to check whether you have implemented the requirements correctly.
 - Once you are ready to submit, you must send the mail to: applicationdevelopmentpython@gmail.com
-- The e-mail should not be sent to my Rotterdam high school mail.
-- In the e-mail you indicate which requirements you have implemented. Use [the requirements list](docs/list-of-requirements.md) for this purpose. For example M1-M13 if you have only done the mandatory requirements and M1-M13 + A1-A6 if you have done everything.
+- The email should not be sent to my Hogeschool Rotterdam email.
+- In the email you indicate which requirements you have implemented. Use [the requirements list](docs/list-of-requirements.md) for this purpose. For example M1-M13 if you have only done the mandatory requirements and M1-M13 + A1-A6 if you have done everything.
 - The various files that contain the code must be supplied in a zip file.
-- The debugging exercise should not be put in the zip file.
+- The debugging exercise should be put in the zip file as well.
 - The zip file is provided with the following name: [your student number] [your last name] [your first name]
 
 
