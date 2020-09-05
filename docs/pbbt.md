@@ -23,3 +23,18 @@ Now it is time to run to run PBBT through the command line with `pbbt input.yaml
 
 ```pbbt mandatory_part1_input.yaml mandatory_part1_output.yaml```
 
+
+![Cmd](/img/cmd.png)
+
+![c_directory_python_files](/img/c_directory_python_files.png)
+
+
+
+How does Python Black Box Tool (PBBT) work
+=============================================================
+
+When we look inside the input.yaml and output.yaml for the first exercise, we will see the following:
+
+![pbbt](/img/pbbt_yaml_input_output_files.png)
+
+Basically we have 4 different input-output tests running over here. We provide different answers to the program and see whether everything matches correctly.
