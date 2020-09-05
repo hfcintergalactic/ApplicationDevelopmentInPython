@@ -38,3 +38,5 @@ When we look inside the input.yaml and output.yaml for the first exercise, we wi
 ![pbbt](img/pbbt_yaml_input_output_files.png)
 
 Basically we have 4 different input-output tests running over here. We provide different answers to the program and see whether everything matches correctly.
+
+The input output test cases are also defined in the Microsoft Word document testcases.docx, which is provided inside the [code folder](../code/)
