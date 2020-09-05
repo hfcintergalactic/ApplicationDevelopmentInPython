@@ -45,7 +45,7 @@ Weekly schedule
 How to submit single assignment
 ---------------------------------
 
-Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of the Python Black Box Tool (PBBT). Make use of the automated tests. If your code does not pass the test, it means that it is for sure not working. The other way around, passing the test does not always mean that you have also fulfill the requirements, because it is possible to pass tests without fulfilling the requirements. Therefore, your code will also be personally checked. For more information about how PBBT works, please see [here](https://pypi.org/project/pbbt/).
+Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of the Python Black Box Tool (PBBT). Make use of the automated tests. If your code does not pass the test, it means that it is for sure not working. The other way around, passing the test does not always mean that you have also fulfill the requirements, because it is possible to pass tests without fulfilling the requirements. Therefore, your code will also be personally checked. For more information about how PBBT works, please see the [official documentation](https://pypi.org/project/pbbt/) and our explanation on [this page](docs/pbbt.md).
 
 
 How to submit full calculator in week 7 before the deadline
