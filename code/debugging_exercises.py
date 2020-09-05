@@ -7,7 +7,7 @@ year = int(input())
 if year < 1900:
     print("That's early, before the 1900s!")
 elif year > 1900 and year < 2020:
-    print("I can relate to that Starting from 1900!")
+    print("I can relate to that starting from 1900!")
 else:
     print("That's the future!")
 
