@@ -1,0 +1,209 @@
+title: Full calculator excluding advanced requirements
+tests:
+- py: main.py
+  stdin: |
+    version
+    help
+    version
+    help
+    quit
+- py: main.py
+  stdin: |
+    power 2
+    sum 1
+    power 2
+    pow
+    sim 3
+    quit
+- py: main.py
+  stdin: |
+    sub 222 271
+    sub 641 757
+    sub 283 991
+    sub 358 959
+    sub 190 168
+    sub 286 826
+    sub 818 31
+    sub 367 551
+    sub 455 122
+    sub 84 220
+    sum 93 382
+    sum 148 776
+    sum 994 20
+    sum 370 117
+    sum 159 207
+    sum 422 159
+    sum 957 953
+    sum 674 345
+    sum 74 138
+    sum 183 577
+    multiply 68 17
+    multiply 71 76
+    multiply 41 67
+    multiply 14 48
+    multiply 57 24
+    multiply 11 21
+    multiply 59 66
+    multiply 29 46
+    multiply 70 82
+    multiply 31 43
+    divide 32 135
+    divide 117 195
+    divide 38 230
+    divide 174 162
+    divide 152 227
+    divide 168 57
+    divide 61 215
+    divide 123 52
+    divide 60 196
+    divide 102 178
+    quit
+- py: main.py
+  stdin: |
+    sub 166 43
+    sub 23 730
+    sub 86 850
+    sub 525 827
+    sub 39 945
+    sub 56 667
+    sub 325 80
+    sub 78 415
+    sub 145 59
+    sub 617 530
+    sum 461 857
+    sum 377 974
+    sum 296 509
+    sum 580 730
+    sum 734 27
+    sum 17 888
+    sum 733 0
+    sum 865 913
+    sum 698 296
+    sum 470 893
+    multiply 37 16
+    multiply 75 24
+    multiply 25 30
+    multiply 51 28
+    multiply 44 59
+    multiply 77 66
+    multiply 8 7
+    multiply 57 34
+    multiply 5 85
+    multiply 80 28
+    divide 179 204
+    divide 0 217
+    divide 183 106
+    divide 69 93
+    divide 212 76
+    divide 50 63
+    divide 193 167
+    divide 204 149
+    divide 221 156
+    divide 187 125
+    quit
+- py: main.py
+  stdin: |
+    power 4 4
+    power 1 2
+    power 4 4
+    power 4 3
+    power 3 4
+    power 2 4
+    power 1 0
+    power 2 3
+    power 4 3
+    power 0 3
+    sqrt 683
+    sqrt 541
+    sqrt 868
+    sqrt 272
+    sqrt 548
+    sqrt 731
+    sqrt 790
+    sqrt 859
+    sqrt 482
+    sqrt 242
+    mod 279 178
+    mod 538 733
+    mod 371 768
+    mod 674 132
+    mod 176 530
+    mod 637 923
+    mod 415 105
+    mod 619 220
+    mod 387 427
+    mod 75 922
+    gcd 674 401
+    gcd 541 684
+    gcd 749 715
+    gcd 340 748
+    gcd 842 745
+    gcd 64 173
+    gcd 771 681
+    gcd 625 814
+    gcd 575 398
+    gcd 889 702
+    lcm 67 4
+    lcm 49 46
+    lcm 48 28
+    lcm 14 29
+    lcm 19 13
+    lcm 28 5
+    lcm 93 9
+    lcm 5 20
+    lcm 76 31
+    lcm 81 97
+    quit
+- py: main.py
+  stdin: |
+    power 4 4
+    power 1 4
+    power 2 3
+    power 2 0
+    power 3 2
+    power 1 4
+    power 2 4
+    power 4 0
+    power 2 0
+    power 4 1
+    sqrt 389
+    sqrt 854
+    sqrt 480
+    sqrt 669
+    sqrt 639
+    sqrt 357
+    sqrt 392
+    sqrt 873
+    sqrt 657
+    sqrt 603
+    mod 729 270
+    mod 779 865
+    mod 15 891
+    mod 792 148
+    mod 950 483
+    mod 88 857
+    mod 383 933
+    mod 371 720
+    mod 310 679
+    mod 374 763
+    gcd 303 864
+    gcd 705 154
+    gcd 674 34
+    gcd 901 935
+    gcd 407 63
+    gcd 941 783
+    gcd 991 739
+    gcd 853 885
+    gcd 871 304
+    gcd 664 637
+    lcm 87 94
+    lcm 98 24
+    lcm 46 55
+    lcm 11 86
+    lcm 45 65
+    lcm 24 2
+    lcm 1 53
+    lcm 61 83
+    lcm 5 71
+    lcm 54 29
+    quit

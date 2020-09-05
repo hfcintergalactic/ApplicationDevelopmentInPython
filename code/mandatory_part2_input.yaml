@@ -1,0 +1,13 @@
+title: Mandatory Part 2
+tests:
+- py: main.py
+  stdin: |
+    version
+    version
+    help
+    version
+    help
+    help
+    help
+    version
+    quit

@@ -1,0 +1,18 @@
+title: Mandatory Part 3
+tests:
+- py: main.py
+  stdin: |
+    power 2 5
+    divide 25 5
+    multiply 25 5
+    sub 2 2
+    sqrt 25
+    quit
+- py: main.py
+  stdin: |
+    power 2
+    sum 1
+    power 2
+    pow
+    sim 3
+    quit

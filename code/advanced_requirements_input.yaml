@@ -1,0 +1,129 @@
+title: Advanced requirements
+tests:
+- py: main.py
+  stdin: |
+    power 2 4
+    sum ans 1
+    sub ans 1
+    divide ans 4
+    divide 8 ans
+    power ans 4
+    sqrt ans
+    sub ans 4
+    quit
+- py: main.py
+  stdin: |
+    bin 1100011
+    bin 10111011
+    bin 100100000110
+    bin 11010101010
+    bin 0101101011
+    bin 0101010101
+    bin 101010101111
+    bin 1111111111
+    bin 11100111011101110010111
+    quit
+- py: main.py
+  stdin: |
+    2 power 7 sum 0 mod 1 divide 2 power 4
+    3 sum 1 multiply 1 mod 7 multiply 5 sum 3
+    7 multiply 6 multiply 6 sub 9 sum 2 multiply 7
+    9 multiply 0 sub 8 mod 8 divide 3 mod 7
+    9 power 2 sum 4 power 4 mod 4 power 5
+    3 mod 1 divide 9 sub 8 power 1 power 2
+    0 sub 1 mod 9 power 1 power 1 power 0
+    5 divide 6 sum 6 sum 0 sub 0 divide 8
+    5 sum 0 power 9 multiply 9 divide 6 sum 9
+    1 mod 7 sub 6 multiply 8 multiply 7 multiply 5
+    2 mod 9 sub 0 multiply 5 multiply 0 sub 0
+    5 multiply 6 mod 6 divide 9 mod 5 sum 8
+    2 multiply 6 sub 6 mod 1 power 0 mod 8
+    1 mod 2 mod 2 sum 0 sub 8 multiply 6
+    7 sub 9 multiply 5 power 4 divide 5 sum 5
+    quit
+- py: main.py
+  stdin: |
+    286 305 sub
+    596 189 sub
+    319 947 sub
+    667 451 sub
+    924 733 sub
+    497 633 sub
+    153 945 sub
+    488 707 sub
+    478 484 sub
+    461 707 sub
+    585 984 sum
+    119 850 sum
+    160 538 sum
+    23 408 sum
+    916 185 sum
+    754 808 sum
+    824 416 sum
+    402 180 sum
+    612 208 sum
+    38 286 sum
+    80 10 multiply
+    80 12 multiply
+    84 99 multiply
+    96 32 multiply
+    66 1 multiply
+    15 81 multiply
+    47 30 multiply
+    89 5 multiply
+    29 42 multiply
+    52 46 multiply
+    89 20 divide
+    22 209 divide
+    64 102 divide
+    150 46 divide
+    104 89 divide
+    136 62 divide
+    42 140 divide
+    217 243 divide
+    120 230 divide
+    29 168 divide
+    quit
+- py: main.py
+  stdin: |
+    575 125 sub
+    382 897 sub
+    125 577 sub
+    154 941 sub
+    854 734 sub
+    125 140 sub
+    802 265 sub
+    990 397 sub
+    825 578 sub
+    935 732 sub
+    896 985 sum
+    298 653 sum
+    609 380 sum
+    371 536 sum
+    314 15 sum
+    784 448 sum
+    840 321 sum
+    175 252 sum
+    401 485 sum
+    750 200 sum
+    94 21 multiply
+    36 97 multiply
+    75 35 multiply
+    97 81 multiply
+    38 30 multiply
+    54 16 multiply
+    74 36 multiply
+    34 71 multiply
+    54 96 multiply
+    79 71 multiply
+    62 175 divide
+    124 210 divide
+    225 77 divide
+    35 222 divide
+    227 147 divide
+    131 30 divide
+    241 61 divide
+    153 174 divide
+    120 110 divide
+    223 117 divide
+    quit

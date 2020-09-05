@@ -1,0 +1,94 @@
+title: Mandatory Part 4
+tests:
+- py: main.py
+  stdin: |
+    sum 1243 6624
+    sum 1813 6579
+    sum 5575 5852
+    sum 2970 5300
+    sum 9472 4299
+    sum 2117 9971
+    sum 7366 6042
+    sum 4179 3388
+    sum 3675 2588
+    sum 5184 4609
+    sub 8726 9361
+    sub 2862 3939
+    sub 2053 6883
+    sub 3099 8300
+    sub 3779 973
+    sub 5058 3761
+    sub 416 5525
+    sub 978 9662
+    sub 896 8838
+    sub 4597 9495
+    multiply 85 51
+    multiply 52 69
+    multiply 38 24
+    multiply 29 66
+    multiply 39 79
+    multiply 50 48
+    multiply 71 48
+    multiply 40 69
+    multiply 92 98
+    multiply 52 88
+    divide 11 21
+    divide 91 100
+    divide 16 15
+    divide 2 21
+    divide 43 10
+    divide 36 40
+    divide 53 25
+    divide 22 68
+    divide 96 2
+    divide 7 94
+    quit
+
+
+    90
+    90
+    90
+- py: main.py
+  stdin: |
+    sum 91295941 14959219
+    sum 91295941 365
+    sum 2945 3645
+    sum 9314 9635
+    sum 1753 152
+    sum 6836 7446
+    sum 3810 2467
+    sum 1243 1064
+    sum 4352 8303
+    sum 8649 2435
+    sum 3834 4054
+    sub 4495 3402
+    sub 6653 4554
+    sub 9691 6150
+    sub 182 9264
+    sub 9303 51
+    sub 6876 4748
+    sub 2226 7468
+    sub 9300 4470
+    sub 98 5550
+    sub 6688 2073
+    multiply 34 43
+    multiply 27 73
+    multiply 9 55
+    multiply 77 63
+    multiply 4 90
+    multiply 34 5
+    multiply 34 15
+    multiply 8 5
+    multiply 31 4
+    multiply 82 79
+    divide 29 54
+    divide 86 71
+    divide 60 80
+    divide 56 49
+    divide 53 96
+    divide 71 50
+    divide 95 51
+    divide 26 37
+    divide 37 43
+    divide 82 9
+    quit

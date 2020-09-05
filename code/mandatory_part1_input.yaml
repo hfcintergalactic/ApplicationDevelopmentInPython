@@ -1,0 +1,26 @@
+title: Mandatory Part 1 - Debugging Exercise
+tests:
+- py: debugging_exercises.py
+  stdin: |
+    2018
+    90
+    90
+    90
+- py: debugging_exercises.py
+  stdin: |
+    1900
+    50
+    60
+    70
+- py: debugging_exercises.py
+  stdin: |
+    1899
+    70
+    80
+    90
+- py: debugging_exercises.py
+  stdin: |
+    2123
+    30
+    40
+    50
