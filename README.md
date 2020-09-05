@@ -45,7 +45,7 @@ Weekly schedule
 How to submit single assignment
 ---------------------------------
 
-Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of the Python Black Box Tool (PBBT). For more information about how PBBT works, please see [here](https://pypi.org/project/pbbt/).
+Your code will be **both** automatically verified and personally checked according to the criteria found in the final assignment description. For the automatic verification, we make use of the Python Black Box Tool (PBBT). Make use of the automated tests. If your code does not pass the test, it means that it is for sure not working. The other way around, passing the test does not always mean that you have also fulfill the requirements, because it is possible to pass tests without fulfilling the requirements. Therefore, your code will also be personally checked. For more information about how PBBT works, please see [here](https://pypi.org/project/pbbt/).
 
 
 How to submit full calculator in week 7 before the deadline
@@ -54,7 +54,7 @@ How to submit full calculator in week 7 before the deadline
 After week 5, there are no lectures anymore. When handing in your calculator through email you **MUST** comply with the following rules:
 
 **!!! EVERYTHING that does not comply with the rules will be considered not handed in !!!**
-- Use autogrdr.com as a tool for yourself to check whether you have implemented the requirements correctly.
+- Use PBBT as a tool for yourself to check whether you have implemented the requirements correctly.
 - Once you are ready to submit, you must send the mail to: applicationdevelopmentpython@gmail.com
 - The email should not be sent to my Hogeschool Rotterdam email.
 - In the email you indicate which requirements you have implemented. Use [the requirements list](docs/list-of-requirements.md) for this purpose. For example M1-M13 if you have only done the mandatory requirements and M1-M13 + A1-A5 if you have done everything.
