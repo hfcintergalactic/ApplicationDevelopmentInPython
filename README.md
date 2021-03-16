@@ -6,8 +6,8 @@ Application Development in Python
 Teachers
 -----------------
 
-* Fatih Caglayan, course owner (cagfh at hr dot nl)
-* Babak Bashari Rad (bashb at hr dot nl)
+* Michel Mercera
+* Fatih Caglayan
 
 Introduction
 ------------
